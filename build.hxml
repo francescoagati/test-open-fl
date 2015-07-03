@@ -1,0 +1,6 @@
+-cp Source
+-main Main
+-swf build/a.swf
+-lib openfl cocktail lime 
+-swf-version 10.2
+-dce full

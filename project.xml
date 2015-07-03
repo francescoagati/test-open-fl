@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="Adding Text" package="org.openfl.samples.addingtext" version="1.0.0" company="OpenFL" />
+	<app main="Main" path="Export" file="AddingText" />
+
+	<source path="Source" />
+	<haxelib name="openfl" />
+  <haxelib name="cocktail" />
+	<haxelib name="tinyui" />
+	<assets path="Assets" rename="assets"  />
+	<haxedef name="HXCPP_STACK_TRACE" />
+	<haxedef name="HXCPP_CHECK_POINTER" />
+</project>
